@@ -1,2 +1,2 @@
 # hire-project
-Taxas de desconto de um funcionário na contratação
+Projeto que faz a simulação de acordo com valores de taxa que forem atibuidos pelo usuário
